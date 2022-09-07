@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<members>Product__c</members>
+<name>CustomObject</name>
+</types>
+
+<types>
+<members>Product__c</members>
+<name>CustomTab</name>
+</types>
+
+<types>
+<members>Product__c.Expiry_Date__c</members>
+<members>Product__c.Mfg_Date__c</members>
+<members>Product__c.Price__c</members>
+<members>Product__c.Product_Id__c</members>
+<members>Product__c.Quantity__c</members>
+<name>CustomField</name>
+</types>
+
+<version>55.0</version>
+</Package>
